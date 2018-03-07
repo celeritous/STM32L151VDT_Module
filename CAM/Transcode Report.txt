@@ -1,0 +1,101 @@
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-B.Mask.gbs' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+D14   --> D103
+D15   --> D104
+D16   --> D105
+D17   --> D106
+D18   --> D107
+D19   --> D108
+D20   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-B.SilkS.gbo' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D110
+D12   --> D111
+D13   --> D112
+D14   --> D113
+D15   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-Edge.Cuts.gm1' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-F.Cu.gtl' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D116
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D18   --> D123
+D19   --> D124
+D20   --> D125
+D21   --> D126
+D22   --> D127
+D23   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-F.Mask.gts' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D129
+D12   --> D130
+D13   --> D131
+D14   --> D132
+D15   --> D133
+D16   --> D134
+D17   --> D135
+D18   --> D136
+D19   --> D137
+D20   --> D138
+D21   --> D139
+D22   --> D140
+D23   --> D141
+D24   --> D142
+D25   --> D143
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-F.SilkS.gto' ----   Sun Feb 04 23:11:05 2018
+
+D11   --> D144
+D12   --> D145
+D13   --> D146
+D14   --> D147
+D15   --> D148
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-GND.g2' ----   Sun Feb 04 23:11:07 2018
+
+D11   --> D149
+D12   --> D150
+D13   --> D151
+D14   --> D152
+D15   --> D153
+D16   --> D154
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\alitton\Dropbox\uBITX\STM32L151VDT_Module\CAM\STM32L151VDT_Module-PWR.g3' ----   Sun Feb 04 23:11:08 2018
+
+D11   --> D155
+D12   --> D156
+D13   --> D157
+D14   --> D158
+D15   --> D159
+D16   --> D160
+-----------------------------------------------------------------
