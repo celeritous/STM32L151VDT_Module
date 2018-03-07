@@ -1,2 +1,0 @@
-# STM32L151VDT_Module
-STM32L151VDT_Module
